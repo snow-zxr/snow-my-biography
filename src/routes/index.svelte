@@ -1,5 +1,5 @@
 <script>
-import Header from '$lib/Header. swelte';
+import Header from '$lib/Header. svelte';
 import Section from '$lib/Section.svelte';
 
 let myInfo = {
@@ -17,7 +17,7 @@ item3: "Watch Movies"
 }
 
 let myPersonality = {
-title: "personality",
+title: "Personality",
 item1: "Queit",
 item2: "Humble",
 item3: "Kind"
