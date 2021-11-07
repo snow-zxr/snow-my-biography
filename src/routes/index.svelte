@@ -25,7 +25,7 @@ item3: "Kind"
 
 </script>
 
-<Header title={"My Biography"} />
+<Header title="My Biography" />
 <section {...myInfo} />
 <section {...myHobby} />
 <section {...myPersonality} />
