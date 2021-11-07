@@ -29,7 +29,7 @@ item3: "Kind"
 <Section {...myInfo} />
 <Section {...myHobby} />
 <Section {...myPersonality} />
-<p>GitHub respository<br>My Biography @ All right reserved.</p>
+<p>GitHub respository<br>My Biography © All right reserved.</p>
 
 <style>
     p{
